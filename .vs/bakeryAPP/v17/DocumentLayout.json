@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "F:\\BakeryAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|f:\\bakeryapp\\bakeryapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|solutionrelative:bakeryapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132DC320-93D2-479C-B7AA-82D6F1E4D357}|bakeryBE\\bakeryBE.csproj|f:\\bakeryapp\\bakerybe\\models\\bakerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132DC320-93D2-479C-B7AA-82D6F1E4D357}|bakeryBE\\bakeryBE.csproj|solutionrelative:bakerybe\\models\\bakerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|f:\\bakeryapp\\bakeryapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|solutionrelative:bakeryapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|f:\\bakeryapp\\bakeryapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|solutionrelative:bakeryapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|f:\\bakeryapp\\bakeryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "F:\\progetti-stage\\bakeryAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|f:\\progetti-stage\\bakeryapp\\bakeryapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|solutionrelative:bakeryapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132DC320-93D2-479C-B7AA-82D6F1E4D357}|bakeryBE\\bakeryBE.csproj|f:\\progetti-stage\\bakeryapp\\bakerybe\\models\\ordini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132DC320-93D2-479C-B7AA-82D6F1E4D357}|bakeryBE\\bakeryBE.csproj|solutionrelative:bakerybe\\models\\ordini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|f:\\progetti-stage\\bakeryapp\\bakeryapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|solutionrelative:bakeryapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132DC320-93D2-479C-B7AA-82D6F1E4D357}|bakeryBE\\bakeryBE.csproj|f:\\progetti-stage\\bakeryapp\\bakerybe\\models\\prodotti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132DC320-93D2-479C-B7AA-82D6F1E4D357}|bakeryBE\\bakeryBE.csproj|solutionrelative:bakerybe\\models\\prodotti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|f:\\progetti-stage\\bakeryapp\\bakeryapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|solutionrelative:bakeryapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132DC320-93D2-479C-B7AA-82D6F1E4D357}|bakeryBE\\bakeryBE.csproj|f:\\progetti-stage\\bakeryapp\\bakerybe\\models\\bakerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132DC320-93D2-479C-B7AA-82D6F1E4D357}|bakeryBE\\bakeryBE.csproj|solutionrelative:bakerybe\\models\\bakerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132DC320-93D2-479C-B7AA-82D6F1E4D357}|bakeryBE\\bakeryBE.csproj|f:\\progetti-stage\\bakeryapp\\bakerybe\\models\\utenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132DC320-93D2-479C-B7AA-82D6F1E4D357}|bakeryBE\\bakeryBE.csproj|solutionrelative:bakerybe\\models\\utenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|f:\\progetti-stage\\bakeryapp\\bakeryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> af914d213f37776eab735db7a6d45753e8bd00a6
+      "RelativeMoniker": "D:0:0:{68149CEF-2F39-4107-B166-328003B8B3D1}|bakeryAPI\\bakeryAPI.csproj|solutionrelative:bakeryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "productController.cs",
+              "DocumentMoniker": "F:\\BakeryAPP\\bakeryAPI\\Controllers\\productController.cs",
+              "RelativeDocumentMoniker": "bakeryAPI\\Controllers\\productController.cs",
+              "ToolTip": "F:\\BakeryAPP\\bakeryAPI\\Controllers\\productController.cs",
+              "RelativeToolTip": "bakeryAPI\\Controllers\\productController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:02:31.838Z",
+=======
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\progetti-stage\\bakeryAPP\\bakeryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "bakeryAPI\\Program.cs",
+              "ToolTip": "F:\\progetti-stage\\bakeryAPP\\bakeryAPI\\Program.cs",
+              "RelativeToolTip": "bakeryAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:18:45.638Z",
+>>>>>>> af914d213f37776eab735db7a6d45753e8bd00a6
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\BakeryAPP\\bakeryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "bakeryAPI\\Program.cs",
+              "ToolTip": "F:\\BakeryAPP\\bakeryAPI\\Program.cs",
+              "RelativeToolTip": "bakeryAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:18:45.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BakeryContext.cs",
+              "DocumentMoniker": "F:\\BakeryAPP\\bakeryBE\\Models\\BakeryContext.cs",
+              "RelativeDocumentMoniker": "bakeryBE\\Models\\BakeryContext.cs",
+              "ToolTip": "F:\\BakeryAPP\\bakeryBE\\Models\\BakeryContext.cs",
+              "RelativeToolTip": "bakeryBE\\Models\\BakeryContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwEEAAAADAAAAAAAAAA==",
+=======
+              "DocumentIndex": 1,
+              "Title": "Ordini.cs",
+              "DocumentMoniker": "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\Models\\Ordini.cs",
+              "RelativeDocumentMoniker": "bakeryBE\\Models\\Ordini.cs",
+              "ToolTip": "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\Models\\Ordini.cs",
+              "RelativeToolTip": "bakeryBE\\Models\\Ordini.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:28:43.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BakeryContext.cs",
+              "DocumentMoniker": "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\Models\\BakeryContext.cs",
+              "RelativeDocumentMoniker": "bakeryBE\\Models\\BakeryContext.cs",
+              "ToolTip": "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\Models\\BakeryContext.cs",
+              "RelativeToolTip": "bakeryBE\\Models\\BakeryContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+>>>>>>> af914d213f37776eab735db7a6d45753e8bd00a6
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:29:21.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 3,
+              "Title": "orderController.cs",
+              "DocumentMoniker": "F:\\BakeryAPP\\bakeryAPI\\Controllers\\orderController.cs",
+              "RelativeDocumentMoniker": "bakeryAPI\\Controllers\\orderController.cs",
+              "ToolTip": "F:\\BakeryAPP\\bakeryAPI\\Controllers\\orderController.cs",
+              "RelativeToolTip": "bakeryAPI\\Controllers\\orderController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:16:53.134Z"
+=======
+              "DocumentIndex": 6,
+              "Title": "Utenti.cs",
+              "DocumentMoniker": "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\Models\\Utenti.cs",
+              "RelativeDocumentMoniker": "bakeryBE\\Models\\Utenti.cs",
+              "ToolTip": "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\Models\\Utenti.cs",
+              "RelativeToolTip": "bakeryBE\\Models\\Utenti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:28:46.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "orderController.cs",
+              "DocumentMoniker": "F:\\progetti-stage\\bakeryAPP\\bakeryAPI\\Controllers\\orderController.cs",
+              "RelativeDocumentMoniker": "bakeryAPI\\Controllers\\orderController.cs",
+              "ToolTip": "F:\\progetti-stage\\bakeryAPP\\bakeryAPI\\Controllers\\orderController.cs",
+              "RelativeToolTip": "bakeryAPI\\Controllers\\orderController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwHEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:16:53.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "userController.cs",
+              "DocumentMoniker": "F:\\progetti-stage\\bakeryAPP\\bakeryAPI\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "bakeryAPI\\Controllers\\userController.cs",
+              "ToolTip": "F:\\progetti-stage\\bakeryAPP\\bakeryAPI\\Controllers\\userController.cs",
+              "RelativeToolTip": "bakeryAPI\\Controllers\\userController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAA4wBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:12:37.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prodotti.cs",
+              "DocumentMoniker": "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\Models\\Prodotti.cs",
+              "RelativeDocumentMoniker": "bakeryBE\\Models\\Prodotti.cs",
+              "ToolTip": "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\Models\\Prodotti.cs",
+              "RelativeToolTip": "bakeryBE\\Models\\Prodotti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:06:32.205Z",
+              "EditorCaption": ""
+>>>>>>> af914d213f37776eab735db7a6d45753e8bd00a6
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+<<<<<<< HEAD
+              "Title": "userController.cs",
+              "DocumentMoniker": "F:\\BakeryAPP\\bakeryAPI\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "bakeryAPI\\Controllers\\userController.cs",
+              "ToolTip": "F:\\BakeryAPP\\bakeryAPI\\Controllers\\userController.cs",
+              "RelativeToolTip": "bakeryAPI\\Controllers\\userController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:12:37.306Z",
+=======
+              "Title": "productController.cs",
+              "DocumentMoniker": "F:\\progetti-stage\\bakeryAPP\\bakeryAPI\\Controllers\\productController.cs",
+              "RelativeDocumentMoniker": "bakeryAPI\\Controllers\\productController.cs",
+              "ToolTip": "F:\\progetti-stage\\bakeryAPP\\bakeryAPI\\Controllers\\productController.cs",
+              "RelativeToolTip": "bakeryAPI\\Controllers\\productController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:02:31.838Z",
+>>>>>>> af914d213f37776eab735db7a6d45753e8bd00a6
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

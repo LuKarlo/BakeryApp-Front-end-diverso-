@@ -1,0 +1,191 @@
+[
+  {
+    "idprodotto": 7,
+    "prodName": "Frolla liscia",
+    "quantita": 10,
+    "prezzo": 0.8,
+    "prodesc": "Pasticcieria",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 8,
+    "prodName": "bibite - lattina",
+    "quantita": 10,
+    "prezzo": 2,
+    "prodesc": "Bevande",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 9,
+    "prodName": "panino farcito al latte",
+    "quantita": 10,
+    "prezzo": 1.8,
+    "prodesc": "Panetteria",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 10,
+    "prodName": "Fetta di torta",
+    "quantita": 10,
+    "prezzo": 2,
+    "prodesc": "Pasticcieria",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 11,
+    "prodName": "torta monoprozione",
+    "quantita": 10,
+    "prezzo": 3.2,
+    "prodesc": "Pasticcieria",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 12,
+    "prodName": "acqua naturale - bicchiere",
+    "quantita": 10,
+    "prezzo": 0.5,
+    "prodesc": "Bevande",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 13,
+    "prodName": "pizza margherita al trancio",
+    "quantita": 10,
+    "prezzo": 1.5,
+    "prodesc": "Panetteria",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 14,
+    "prodName": "bibite - bicchiere",
+    "quantita": 10,
+    "prezzo": 1,
+    "prodesc": "Bevande",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 15,
+    "prodName": "focaccia con prosciutto cotto",
+    "quantita": 10,
+    "prezzo": 2.5,
+    "prodesc": "Panetteria",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 16,
+    "prodName": "acqua naturale - bottiglia",
+    "quantita": 10,
+    "prezzo": 1,
+    "prodesc": "Bevande",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 17,
+    "prodName": "Frolla al cioccolato",
+    "quantita": 10,
+    "prezzo": 1,
+    "prodesc": "Pasticcieria",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 18,
+    "prodName": "succo di frutta",
+    "quantita": 10,
+    "prezzo": 2,
+    "prodesc": "Bevande",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 19,
+    "prodName": "focaccia tonda",
+    "quantita": 10,
+    "prezzo": 1,
+    "prodesc": "Panetteria",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 20,
+    "prodName": "caffé ginseng",
+    "quantita": 10,
+    "prezzo": 1.2,
+    "prodesc": "Colazione",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 21,
+    "prodName": "cappucino",
+    "quantita": 10,
+    "prezzo": 1.3,
+    "prodesc": "Colazione",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 22,
+    "prodName": "brioche vuota",
+    "quantita": 10,
+    "prezzo": 1.2,
+    "prodesc": "Colazione",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 23,
+    "prodName": "cappucino (latte di soglia)",
+    "quantita": 10,
+    "prezzo": 1.4,
+    "prodesc": "Colazione",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 24,
+    "prodName": "caffé decaffeinato",
+    "quantita": 10,
+    "prezzo": 1.1,
+    "prodesc": "Colazione",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 25,
+    "prodName": "caffé",
+    "quantita": 10,
+    "prezzo": 1,
+    "prodesc": "Colazione",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 26,
+    "prodName": "caffé orzo",
+    "quantita": 10,
+    "prezzo": 1.1,
+    "prodesc": "Colazione",
+    "ingredienti": null,
+    "ordinis": []
+  },
+  {
+    "idprodotto": 27,
+    "prodName": "brioche farcita",
+    "quantita": 10,
+    "prezzo": 1.5,
+    "prodesc": "Colazione",
+    "ingredienti": null,
+    "ordinis": []
+  }
+]

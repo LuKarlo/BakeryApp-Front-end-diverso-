@@ -1,0 +1,46 @@
+footer{
+    position: relative;
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--secondary);
+}
+
+footer > div#wrap-footer{
+    height: 100%;
+    width: 100%;
+    clip-path: polygon(0% calc(0% + 5vh) , 100% 0%, 100% 100%, 0% 100%);
+    background-color: var(--primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: var(--secondary);
+    gap: 20px;
+}
+
+div#wrap-footer > p{
+    width: 50%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+div#wrap-footer > p > a > svg{
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+}
+
+p.link {
+    color: var(--background);
+}
+
+a{
+    text-decoration: none;
+    color: currentColor;
+}

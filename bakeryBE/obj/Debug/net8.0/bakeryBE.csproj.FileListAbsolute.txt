@@ -1,0 +1,27 @@
+F:\progetti-stage\bakeryAPP\bakeryBE\bin\Debug\net8.0\bakeryBE.deps.json
+F:\progetti-stage\bakeryAPP\bakeryBE\bin\Debug\net8.0\bakeryBE.dll
+F:\progetti-stage\bakeryAPP\bakeryBE\bin\Debug\net8.0\bakeryBE.pdb
+F:\progetti-stage\bakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.csproj.AssemblyReference.cache
+F:\progetti-stage\bakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.GeneratedMSBuildEditorConfig.editorconfig
+F:\progetti-stage\bakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.AssemblyInfoInputs.cache
+F:\progetti-stage\bakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.AssemblyInfo.cs
+F:\progetti-stage\bakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.csproj.CoreCompileInputs.cache
+F:\progetti-stage\bakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.dll
+F:\progetti-stage\bakeryAPP\bakeryBE\obj\Debug\net8.0\refint\bakeryBE.dll
+F:\progetti-stage\bakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.pdb
+F:\progetti-stage\bakeryAPP\bakeryBE\obj\Debug\net8.0\ref\bakeryBE.dll
+<<<<<<< HEAD
+F:\BakeryAPP\bakeryBE\bin\Debug\net8.0\bakeryBE.deps.json
+F:\BakeryAPP\bakeryBE\bin\Debug\net8.0\bakeryBE.dll
+F:\BakeryAPP\bakeryBE\bin\Debug\net8.0\bakeryBE.pdb
+F:\BakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.csproj.AssemblyReference.cache
+F:\BakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.GeneratedMSBuildEditorConfig.editorconfig
+F:\BakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.AssemblyInfoInputs.cache
+F:\BakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.AssemblyInfo.cs
+F:\BakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.csproj.CoreCompileInputs.cache
+F:\BakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.dll
+F:\BakeryAPP\bakeryBE\obj\Debug\net8.0\refint\bakeryBE.dll
+F:\BakeryAPP\bakeryBE\obj\Debug\net8.0\bakeryBE.pdb
+F:\BakeryAPP\bakeryBE\obj\Debug\net8.0\ref\bakeryBE.dll
+=======
+>>>>>>> af914d213f37776eab735db7a6d45753e8bd00a6

@@ -1,0 +1,217 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+    "F:\\BakeryAPP\\bakeryAPI\\bakeryAPI.csproj": {}
+  },
+  "projects": {
+    "F:\\BakeryAPP\\bakeryAPI\\bakeryAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\BakeryAPP\\bakeryAPI\\bakeryAPI.csproj",
+        "projectName": "bakeryAPI",
+        "projectPath": "F:\\BakeryAPP\\bakeryAPI\\bakeryAPI.csproj",
+        "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+        "outputPath": "F:\\BakeryAPP\\bakeryAPI\\obj\\",
+=======
+    "F:\\progetti-stage\\bakeryAPP\\bakeryAPI\\bakeryAPI.csproj": {}
+  },
+  "projects": {
+    "F:\\progetti-stage\\bakeryAPP\\bakeryAPI\\bakeryAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\progetti-stage\\bakeryAPP\\bakeryAPI\\bakeryAPI.csproj",
+        "projectName": "bakeryAPI",
+        "projectPath": "F:\\progetti-stage\\bakeryAPP\\bakeryAPI\\bakeryAPI.csproj",
+        "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+        "outputPath": "F:\\progetti-stage\\bakeryAPP\\bakeryAPI\\obj\\",
+>>>>>>> af914d213f37776eab735db7a6d45753e8bd00a6
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+<<<<<<< HEAD
+              "F:\\BakeryAPP\\bakeryBE\\bakeryBE.csproj": {
+                "projectPath": "F:\\BakeryAPP\\bakeryBE\\bakeryBE.csproj"
+=======
+              "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\bakeryBE.csproj": {
+                "projectPath": "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\bakeryBE.csproj"
+>>>>>>> af914d213f37776eab735db7a6d45753e8bd00a6
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+<<<<<<< HEAD
+    "F:\\BakeryAPP\\bakeryBE\\bakeryBE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\BakeryAPP\\bakeryBE\\bakeryBE.csproj",
+        "projectName": "bakeryBE",
+        "projectPath": "F:\\BakeryAPP\\bakeryBE\\bakeryBE.csproj",
+        "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+        "outputPath": "F:\\BakeryAPP\\bakeryBE\\obj\\",
+=======
+    "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\bakeryBE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\bakeryBE.csproj",
+        "projectName": "bakeryBE",
+        "projectPath": "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\bakeryBE.csproj",
+        "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+        "outputPath": "F:\\progetti-stage\\bakeryAPP\\bakeryBE\\obj\\",
+>>>>>>> af914d213f37776eab735db7a6d45753e8bd00a6
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

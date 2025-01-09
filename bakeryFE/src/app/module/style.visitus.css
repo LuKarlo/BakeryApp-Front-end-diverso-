@@ -1,0 +1,20 @@
+.visitaci{
+    height: 20vh;
+    background-color: var(--secondary);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5%;
+}
+
+.visitaci > h1{
+    font-size: 2rem;
+    color: var(--primary);
+}
+
+.visitaci > h2{
+    font-size: 1.5rem;
+    color: var(--primary);
+}

@@ -1,0 +1,79 @@
+
+.prodotti{
+    width: 100%;
+    height: auto;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5%;
+    background-color: var(--secondary);
+}
+
+.prodotti > .text{
+    height: auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.prodotti > .text > h2{
+    color: var(--primary);
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.prodotti > .text > h1{
+    color: var(--primary);
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.prodotti > .cate{
+    width: 100%;
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5%;
+}
+
+.cate > .card{
+    width: 20%;
+    height: auto;
+}
+
+.cate > .card > .text{
+    padding-top: 20px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--primary);
+    font-size: 1rem;
+}
+
+
+.cate > .card > .icon{
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.icon > svg{
+    fill: var(--primary);
+    width: 50%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.prodotti > a{
+    color: var(--primary);
+    font-size: 1.5rem;
+}

@@ -1,0 +1,12 @@
+:root {
+  --background: #ffffff;
+  --primary: #643E13;
+  --secondary: #ffebcd;
+}
+
+*{margin: 0;padding: 0;box-sizing: border-box;}
+
+html{
+  background-color: var(--background);
+  scroll-behavior: smooth;
+}
