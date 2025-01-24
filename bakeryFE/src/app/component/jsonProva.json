@@ -1,0 +1,10 @@
+[
+    {
+        "idutente":  1,
+        "username":  "Mirko Lurdo",
+        "password":  "LuKarlo1963",
+        "email":  "mirkolurod@example.com",
+        "tel":  "3456789012",
+        "role":  2
+    }
+]

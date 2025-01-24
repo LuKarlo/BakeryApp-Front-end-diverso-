@@ -2,6 +2,8 @@
   --background: #ffffff;
   --primary: #643E13;
   --secondary: #ffebcd;
+  --third: #ffe4bb;
+  --third-transp: rgba(255, 228, 189, .4);
 }
 
 *{margin: 0;padding: 0;box-sizing: border-box;}

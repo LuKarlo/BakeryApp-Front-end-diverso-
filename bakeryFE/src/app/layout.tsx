@@ -1,5 +1,4 @@
 import "./globals.css";
-import Footer from "./module/footer"
 
 export const metadata = {
   title: 'Good Bakery',
@@ -14,7 +13,6 @@ export default function RootLayout({ children }) {
       </head>
       <body>
         <main>{children}</main>
-        <Footer />
       </body>
     </html>
   );

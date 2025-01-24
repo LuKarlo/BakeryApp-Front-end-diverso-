@@ -14,7 +14,7 @@ export default function Footer(){
                     &copy; 2025 All Rights Reserved | AFOL Monza Brianza
                 </p>
                 <p className="link">
-                    <a href="/catalogo">Catalogo</a> | <a href="/">Home</a>
+                    <a href="/catalogo">Catalogo</a> | <a href="/">Home</a> | <a href="/login">Login</a>
                 </p>
                 <p>
                     <a href="https://www.facebook.com/afolmonzabrianza">

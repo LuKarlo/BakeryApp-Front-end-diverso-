@@ -1,0 +1,100 @@
+.login{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    flex-direction: column;
+}
+
+.error_message{
+    width: 20%;
+    height: auto;
+    padding: 10px;
+    border: 1px solid #ff2020;
+    background: #ffb0b0;
+    color: #ff2020;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login > form{
+    width: 20%;
+    height: calc(75px * 4);
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+form > span{
+    width: 100%;
+    height: 75px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.label{
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.label > input:not(input[type="submit"]){
+    width: 100%;
+    height: 100%;
+    border: none;
+    background: var(--secondary);
+    padding: 15px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    outline-color: var(--primary);
+}
+
+.label > input[type="submit"]{
+    background-color: var(--primary);
+    color: var(--background);
+    border: none;
+    cursor: pointer;
+}
+
+.label > h1 , input[type="submit"]{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.label > h1{
+    border-bottom: 5px solid var(--primary);
+}
+
+form > span > span.icon-label{
+    height: 100%;
+    width: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+    background-color: var(--third);
+}
+
+span > svg{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+.hide{
+    display: none;
+}

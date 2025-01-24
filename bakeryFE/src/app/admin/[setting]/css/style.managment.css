@@ -1,0 +1,99 @@
+.managing{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background: var(--secondary);
+    padding: 50px;
+}
+
+.managing > a{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    padding: 20px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: var(--primary);
+    border: 5px solid var(--primary);
+}
+
+.managing > table{
+    position: relative;
+    width: 50vw;
+    height: fit-content;
+    border-collapse: collapse;
+}
+
+tr > .id{
+    width: 10%;
+}
+
+tr > td{
+    padding: 5px 15px;
+    height: 30px;
+}
+
+tr > th{
+    height: 20px;
+}
+
+tr > td, th{
+    border: 1px solid var(--primary);
+}
+
+tr{
+    background: var(--background);
+}
+
+tr:nth-child(even){
+    background: var(--third);
+}
+
+td > input{
+    width: calc(100% + 30px);
+    height: calc(100% + 10px);
+    margin-left: -15px;
+    border: none;
+}
+
+
+.add{
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    height: 51px;
+    width: 53px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--background);
+    cursor: pointer;
+}
+
+.add > svg{
+    width: 100%;
+    height: 100%;
+    fill: var(--third-transp);
+    stroke: var(--primary);
+}
+
+.del-icon{
+    height: 25px;
+    background-color: var(--background);
+    cursor:pointer;
+}
+
+.del-icon:hover , .add:hover{
+    background: var(--third);
+}
+
+.del-icon > svg{
+    width: 20px;
+    height: 20px;
+    fill: var(--third-transp);
+    stroke: var(--primary);
+}
